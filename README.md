@@ -1,2 +1,2 @@
 # C-assigments
-class C progrmming assignments
+C programming based assignments

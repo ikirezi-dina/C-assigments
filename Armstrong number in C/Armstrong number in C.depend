@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700488354 source:c:\users\ikire\onedrive\documents\code\armstrong number in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

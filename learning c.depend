@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700307515 source:c:\users\ikire\onedrive\documents\code\learning c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700307520 source:c:\users\ikire\onedrive\documents\code\learning c\multiplication table.c
+	<stdio.h>
+	<stdlib.h>
+
+1700312261 source:c:\users\ikire\onedrive\documents\code\learning c\factorial of a number.c
+	<stdio.h>
+
+1700313421 source:c:\users\ikire\onedrive\documents\code\learning c\factors of a number.c
+	<stdio.h>
+
+1700314447 source:c:\users\ikire\onedrive\documents\code\learning c\power of given numbers.c
+	<stdio.h>
+	<conio.h>
+
